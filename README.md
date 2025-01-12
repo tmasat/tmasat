@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on iOS projects
 
-- 🌱 I’m currently learning **SwiftUI** & **Flutter**
+- 🌱 I’m currently learning **ReactNative** & **Flutter**
 
 - 📝 I regularly write articles on [https://medium.com/@tugberkmasat](https://medium.com/@tugberkmasat)
 
