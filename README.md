@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Çağrı Tuğberk Masat</h1>
 
-- 🔭 I’m currently working on iOS projects
+- 🔭 I’m currently working on Native iOS and Playwright Automation projects
 
-- 🌱 I’m currently learning **ReactNative** & **Flutter**
+- 🌱 I am currently learning **Terraform**, a popular infrastructure as code tool used for automating cloud resource management.
 
 - 📝 I regularly write articles on [https://medium.com/@tugberkmasat](https://medium.com/@tugberkmasat)
 
