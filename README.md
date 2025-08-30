@@ -2,7 +2,9 @@
 
 - 🔭 I’m currently working on Native iOS and Playwright Automation projects
 
-- 🌱 I am currently learning **Terraform**, a popular infrastructure as code tool used for automating cloud resource management.
+- 🌱 I am currently learning:
+  - **Kotlin Multiplatform** – for building cross-platform native mobile apps  
+  - **Terraform** – a popular Infrastructure as Code tool for automating cloud resource management
 
 - 📝 I regularly write articles on [https://medium.com/@tugberkmasat](https://medium.com/@tugberkmasat)
 
