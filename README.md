@@ -36,15 +36,13 @@
 
 <p align="left">
 
+ <img align="left" width="40px" src="https://cdn.simpleicons.org/cypress" />
+
+  <img align="left" width="40px" src="https://playwright.dev/img/playwright-logo.svg" />
+
   <img align="left" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" />
 
   <img align="left" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />
-
-  <img align="left" width="40px" src="https://cdn.simpleicons.org/nightwatch" />
-
-  <img align="left" width="40px" src="https://cdn.simpleicons.org/cypress" />
-
-  <img align="left" width="40px" src="https://playwright.dev/img/playwright-logo.svg" />
 
   <img align="left" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 
