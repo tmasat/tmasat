@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Çağrı Tuğberk Masat</h1>
 
-- 🔭 I’m currently working on **Native iOS and Playwright Automation projects**
+- 🔭 I’m currently working on **Kotlin (Compose Multiplatform) and Playwright Automation projects**
 
 - 🌱 I am currently learning:
-  - **Kotlin Multiplatform**
+  - **Playwright**
   - **Terraform**
 
 - 📝 I regularly write articles on  
