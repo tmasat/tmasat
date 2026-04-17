@@ -2,10 +2,6 @@
 
 - 🔭 I’m currently working on **Kotlin (Compose Multiplatform) and Playwright Automation projects**
 
-- 🌱 I am currently learning:
-  - **Playwright**
-  - **Terraform**
-
 - 📝 I regularly write articles on  
   👉 <a href="https://medium.com/@tugberkmasat">medium.com/@tugberkmasat</a>
 
