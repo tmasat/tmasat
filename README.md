@@ -32,30 +32,30 @@
 
 <p align="left">
   <a href="https://developer.apple.com/swift/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40" style="margin-right:10px;"/>
   </a>
 
   <a href="https://www.cypress.io" target="_blank">
-    <img src="https://cdn.simpleicons.org/cypress" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/cypress" width="40" height="40" style="margin-right:10px;"/>
   </a>
 
   <a href="https://playwright.dev/" target="_blank">
-    <img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40"/>
+    <img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40" style="margin-right:10px;"/>
   </a>
 
   <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" style="margin-right:10px;"/>
   </a>
 
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" style="margin-right:10px;"/>
   </a>
 
   <a href="https://www.jenkins.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40" style="margin-right:10px;"/>
   </a>
 
   <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" style="margin-right:10px;"/>
   </a>
 </p>
